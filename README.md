@@ -26,7 +26,7 @@ I build secure, data-driven systems — from IoT sensor networks to automated se
 End-to-end incident response pipeline: log ingestion → normalization → anomaly scoring → severity classification → automated escalation reporting. Reduced mean time to detect (MTTD) anomalies by 50% in test scenarios.
 `Python` `Linux` `Bash` `Nmap` `Wireshark` `Pandas`
 
-**Industrial Spill & Fume Detection System** *(Samsung SIC Capstone)*
+**Hazgurad- Industrial Spill & Fume Detection System** *(Samsung SIC Capstone)*
 Multi-sensor gas detection array on ESP32 with tri-level alert escalation (caution → warning → critical), validated across 200+ test cycles; live monitoring dashboard built with Node-RED and MQTT.
 `IoT` `ESP32` `MQTT` `Node-RED`
 
